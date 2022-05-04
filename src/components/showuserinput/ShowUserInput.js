@@ -1,7 +1,5 @@
 import * as React from 'react';
 import { useEffect, useState } from 'react';
-import { DataGrid } from '@mui/x-data-grid';
-import { textAlign } from '@mui/system';
 import axios from 'axios';
 import { Paper } from '@mui/material';
 import { Table,TableBody,TableContainer,TableHead,TableRow,TableCell } from '@mui/material';
